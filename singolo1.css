@@ -127,7 +127,7 @@ header h1::after{
 
 .service-list figure{
     width: 30%;
-    min-width: 300px;
+    min-width: 280px;
     margin: 0 20px 20px 0;
     display: flex;
     flex-wrap: wrap;
@@ -135,7 +135,7 @@ header h1::after{
 }
 
 .service-list .info{
-    width: 75%;
+    width: 70%;
     margin-left: 10px;
 }
 
